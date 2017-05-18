@@ -9,7 +9,8 @@
   "dependencies": {
     "@shoutem/ui": "^0.14.2",
     "react": "16.0.0-alpha.6",
-    "react-native": "0.44.0"
+    "react-native": "0.44.0",
+    "react-native-camera": "git+https://github.com/lwansbrough/react-native-camera.git"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
